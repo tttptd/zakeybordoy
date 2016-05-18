@@ -1,0 +1,71 @@
+.disable_link
+{	font-size : 10 pt;
+	font-weight : bold;
+	text-decoration : none;
+	color : #B0B0B0}
+
+A
+{	font-size : 10 pt;
+	font-weight : bold;
+	text-decoration : none;
+	color : #808080}
+
+A:Visited
+{	font-size : 10 pt;
+	font-weight : bold;
+	color : #808080}
+
+A:Active
+{	font-size : 10 pt;
+	font-weight : bold;
+	color : #A9A9A9}
+
+A.menu
+{	font-size : 10 pt;
+	font-weight : bold;
+	text-decoration : none;
+	color : #808080}
+
+A.menu:Visited
+{	font-size : 10 pt;
+	font-weight : bold;
+	text-decoration : none;
+	color : #808080}
+
+A.menu:Active
+{	font-size : 10 pt;
+	font-weight : bold;
+	text-decoration : none;
+	color : #A9A9A9}
+
+P
+{	font-size : 10 pt;
+	font-weight : bold;
+	color : #404040}
+
+P.menutext
+{	font-size : 8 pt;
+	font-weight : bold;
+	margin-top : 0;
+	margin.bottom : 0;
+	color : #808080}
+
+H1
+{	font-size : 18 pt;
+	font-weight : bold;
+	color : #303030}
+
+H2
+{	font-size : 16 pt;
+	font-weight : bold;
+	color : #303030}
+
+H3
+{	font-size : 14 pt;
+	font-weight : bold;
+	color : #303030}
+
+H4
+{	font-size : 12 pt;
+	font-weight : bold;
+	color : #303030}

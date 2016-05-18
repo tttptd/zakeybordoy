@@ -1,0 +1,62 @@
+<!--  -->
+<TR ALIGN=RIGHT>
+<TD>
+<A HREF="<!--#include virtual="nomer_url.html"-->" CLASS="menu">ябефхи мнлеп</A><IMG SRC="img/dot.gif" WIDTH=9 HEIGHT=8><BR>
+<A HREF="archive/" CLASS="menu">юпухб мнлепнб</A><IMG SRC="img/dot.gif" WIDTH=9 HEIGHT=8><BR>
+</TD>
+</TR>
+<!--  -->
+<TR><TD BGCOLOR=#000080></TD></TR>
+<!--  -->
+<TR ALIGN=RIGHT>
+<TD>
+<A HREF="/" CLASS="menu">мнбнярх</A><IMG SRC="img/dot.gif" WIDTH=9 HEIGHT=8><BR>
+<A HREF="/" CLASS="menu">юпухб мнбняреи</A><IMG SRC="img/dot.gif" WIDTH=9 HEIGHT=8><BR>
+</TD>
+</TR>
+<!--  -->
+<TR><TD BGCOLOR=#000080></TD></TR>
+<!--  -->
+<TR ALIGN=RIGHT>
+<TD>
+<A HREF="guest/" CLASS="menu">цняребюъ</A><IMG SRC="img/dot.gif" WIDTH=9 HEIGHT=8><BR>
+<A HREF="vocabulary/" CLASS="menu">якнбюпэ</A><IMG SRC="img/dot.gif" WIDTH=9 HEIGHT=8><BR>
+<A HREF="forums/" CLASS="menu">тнпслш</A><IMG SRC="img/dot.gif" WIDTH=9 HEIGHT=8><BR>
+<A HREF="links/" CLASS="menu">яяшкйх</A><IMG SRC="img/dot.gif" WIDTH=9 HEIGHT=8><BR>
+<A HREF="faq/" CLASS="menu">FAQ</A><IMG SRC="img/dot.gif" WIDTH=9 HEIGHT=8><BR>
+</TD>
+</TR>
+<!--  -->
+<TR><TD BGCOLOR=#000080></TD></TR>
+<!--  -->
+<TR ALIGN=RIGHT>
+<TD>
+<A HREF="about/" CLASS="menu">н яепбепе</A><IMG SRC="img/dot.gif" WIDTH=9 HEIGHT=8><BR>
+<A HREF="person/" CLASS="menu">кчдх</A><IMG SRC="img/dot.gif" WIDTH=9 HEIGHT=8><BR>
+</TD>
+</TR>
+<!--  -->
+<TR><TD BGCOLOR=#000080></TD></TR>
+<!--  -->
+<TR ALIGN=RIGHT>
+<TD CLASS="zapros">
+<FORM METHOD=POST ACTION="">
+ПЮЯЯШКЙЮ МНБНЯРЕИ<IMG SRC="img/pix.gif" WIDTH=30 HEIGHT=0>
+<INPUT TYPE="text" NAME="" SIZE=14><IMG SRC="img/pix.gif" WIDTH=2 HEIGHT=0><INPUT TYPE="submit" VALUE="OK">
+</FORM>
+</TD>
+</TR>
+<!--  -->
+<TR><TD BGCOLOR=#000080></TD></TR>
+<!--  -->
+<TR ALIGN=RIGHT>
+<TD CLASS="zapros">
+<FORM METHOD=POST ACTION="">
+ОНХЯЙ МЮ ЯЕПБЕПЕ<IMG SRC="img/pix.gif" WIDTH=30 HEIGHT=0>
+<INPUT TYPE="text" NAME="" SIZE=14><IMG SRC="img/pix.gif" WIDTH=2 HEIGHT=0><INPUT TYPE="submit" VALUE="OK">
+</FORM>
+</TD>
+</TR>
+<!--  -->
+<TR><TD BGCOLOR=#000080></TD></TR>
+<!--  -->
