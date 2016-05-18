@@ -1,0 +1,59 @@
+TD.HEAD
+{	font-size:10pt;
+	color:#FFFFFF}
+
+TD.COPYR,A.COPYR
+{	font-size:9pt;
+	color:#000080}
+
+TD.ZAPROS
+{	font-size:10pt;
+	color:#000080}
+
+A.MENU
+{	font-size:10pt;
+	color:#000080}
+
+
+A.TEXT
+{	font-size:100%;
+	color:#000080}
+
+A
+{	font-size:90%;
+	color:#000080}
+
+P
+{	font-size:90%;
+	color:#000080}
+
+
+H1
+{	font-size:110%;
+	font-weight:bold;
+	margin-bottom:2pt;
+	color:#000080}
+
+H2
+{	font-size:105%;
+	font-weight:bold;
+	margin-bottom:2pt;
+	color:#000080}
+
+H3
+{	font-size:100%;
+	font-weight:bold;
+	margin-bottom:2pt;
+	color:#000080}
+
+H4
+{	font-size:95%;
+	font-weight:bold;
+	margin-bottom:2pt;
+	color:#000080}
+
+H5
+{	font-size:90%;
+	font-weight:bold;
+	margin-bottom:2pt;
+	color:#000080}
