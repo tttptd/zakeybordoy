@@ -1,5 +1,10 @@
-# History
+# История
 
-Site was hosted at server of Khabarovsk State Technical University (KhSTU), [khstu.ru](http://khstu.ru)
+Сайт хостился на сервере Хабаровского Государственного Технического Университета (ХГТУ), [khstu.ru](http://khstu.ru). Ныне универ называется Тихоокеанский Государственный Университет (ТоГУ), [pnu.edu.ru](http://pnu.edu.ru/ru/).
 
-It starts from A4-printed pages. Making-up in MS Word'97. Than several numbers of newspaper was printed at KhSTU's press.
+Изначально это была газета-печатный листок формата А4, которая печаталась на лазерном принтере у друга в фирме по продаже компьютеров. Версталась в MS Word 97. Затем несколько номеров формата А3 было отпечатано в типографии ХГТУ. Потом интерес пропал и она тихо издохла.
+
+Газета существовала с 1998 по 2000 год.
+
+Но именно этот проект сподвиг меня выучить HTML и разобраться в Adobe PageMaker 6.5.
+
